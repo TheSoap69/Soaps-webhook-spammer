@@ -1,4 +1,4 @@
-# Soaps-webhookspammer
+# Soaps-webhook-spammer
 A webhook spammer and deleter in python
 
 # How to install
